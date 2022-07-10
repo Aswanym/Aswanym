@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning python Django.
+- 🌱 I’m currently working on python Django.
 - 👨‍💻 Personal website [link to portfolio](https://aswany-portfolio.herokuapp.com/).
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/my-drive).
 - 📫 How to reach me: aswanymahendran222@gmail.com
