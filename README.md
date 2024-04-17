@@ -1,4 +1,4 @@
-### Hi there 👋I am Aswany m
+### Hi there 👋I am Aswany
 #### I am passionate python Django web developer
 
 
