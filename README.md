@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋I am Aswany<br>I am python Django web developer<br>Here are some ideas to get you started:<br><br>🌱 I’m currently working at inerG, Inc<br>👨‍💻 Personal website [link to portfolio](https://glittery-bavarois-267900.netlify.app/).<br>📫 How to reach me: aswanymahendran222@gmail.com
+Hi there 👋I am Aswany<br>I am python Django web developer<br>Here are some ideas to get you started:<br><br>🌱 I’m currently working at inerG, Inc<br>👨‍💻 Personal website [link to portfolio](https://glittery-bavarois-267900.netlify.app/).<br>📫 How to reach me: aswany.mahendran98@gmail.com
 
 
 ## 🌐 Socials:
